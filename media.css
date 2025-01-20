@@ -1,0 +1,31 @@
+@media only screen and (min-width :200px) and (max-width:540px)
+{
+
+    .main_buttons{
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        
+    }
+    .main_buttons button {
+        width: 62%;
+    }
+    .special-input input::placeholder {
+        font-weight: 500; 
+        font-size: small;
+      }
+      .special-input input {
+        font-weight: 300;
+      }
+      .navbar-brand {
+        font-size: 6vw !important;
+      }
+      .grade-tb-hd{
+        font-size: 0.9rem;
+      }
+      
+      
+}
