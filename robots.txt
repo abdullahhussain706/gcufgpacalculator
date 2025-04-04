@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gcufgpacalculator.netlify.app/sitemap.xml
