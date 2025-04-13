@@ -15,6 +15,7 @@ This is a simple and user-friendly **GPA Calculator Web App** developed specific
 ## 🏫 Who Can Use This?
 
 This GPA Calculator is designed for:
+
 - GCUF Main Campus Students
 - Students from GCUF Affiliated Colleges
 
@@ -29,7 +30,9 @@ Whether you're in BS, MSc, or any other program, this tool can help you track yo
 
 ## 📷 Screenshots
 
-*(Optional: Add some screenshots of the web app here)*
+### 🖼️ Homepage
+
+![Homepage Screenshot](images/website.png)
 
 ## 🧑‍💻 Authors
 
@@ -44,4 +47,3 @@ This project is open-source and free to use under the [MIT License](LICENSE).
 ---
 
 Feel free to star ⭐ the repository if you found this helpful!
-
